@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fa'
+title = 'روزنامه‌های ایرانی'
+theme = 'ananke'
